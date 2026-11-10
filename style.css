@@ -1,0 +1,49 @@
+body{
+    /* background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20241009/pngtree-peaceful-drizzle-rain-on-a-rainy-autumn-day-perfect-nature-wallpaper-image_16334382.jpg); */
+}
+table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 700px;
+    height: 400px;
+    border: 2px solid black;
+    margin: 5px auto;
+    background-repeat: repeat;
+    background-position: center;
+    border-spacing: 3px 3px;
+}
+h1{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-decoration: underline;
+}
+tr,td{
+    border: 2px solid plum;
+    padding: 2px 2px;
+}
+.one{
+    background-color: pink;
+}
+.two{
+    background-color: lightsalmon;
+}
+td:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
+.empty{
+    empty-cells: hide;
+    visibility: hidden;
+}
+marquee{
+        color: lavenderblush;
+}
+td button{
+    color: plum;
+    text-shadow: 0px 1px 1px palevioletred;
+    border-bottom: 2px solid indianred;
+    vertical-align: middle;
+}
+
+
